@@ -1,6 +1,9 @@
 # Título de Mi Proyecto
 **Proyecto de Git Azul School**
 
+Este proyecto es con el fin de practicar  
+>Si estudias hoy no te preocuparas mañana 
+
 [//]:# (Listas Enumeradas)
 ### Listas Enumeradas
 1. Index.html
